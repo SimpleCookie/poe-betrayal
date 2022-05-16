@@ -7,12 +7,10 @@ export const App = () => {
   const [search, setSearch] = useState("")
   const onChange = (v: any) => setSearch(v.target.value.toLowerCase())
 
-  const getImg = () => {
-    const member = members.find((member) => {
-      return member.name.toLocaleLowerCase().includes(search)
-    })
-    console.log("found", member)
-    return member?.img
+  const getMember = () => {
+    return members.find((member) =>
+      member.name.toLocaleLowerCase().includes(search)
+    )
   }
 
   return (
@@ -27,7 +25,7 @@ export const App = () => {
       </div>
       <div style={{ position: "relative" }}>
         <img
-          srcSet={search.length ? getImg() : bandits}
+          srcSet={search.length ? getMember()?.img : bandits}
           alt="bandits"
           style={{
             maxWidth: "100vw",
