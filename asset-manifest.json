@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/poe-betrayal/static/css/main.ff595760.css",
+    "main.js": "/poe-betrayal/static/js/main.4e811a52.js",
+    "static/js/787.6e909b41.chunk.js": "/poe-betrayal/static/js/787.6e909b41.chunk.js",
+    "static/media/bandits.png": "/poe-betrayal/static/media/bandits.6374c91cab0b26dd4606.png",
+    "static/media/tora.png": "/poe-betrayal/static/media/tora.4920e181a786e0d8c097.png",
+    "static/media/hillock.png": "/poe-betrayal/static/media/hillock.773d67bb79cd0eb4900f.png",
+    "static/media/gravicius.png": "/poe-betrayal/static/media/gravicius.dd003fcaa2d7e2817df5.png",
+    "static/media/elreon.png": "/poe-betrayal/static/media/elreon.99a709278caff8394a1c.png",
+    "static/media/cameria.png": "/poe-betrayal/static/media/cameria.3c6a394bdb4cd8bc8c76.png",
+    "static/media/rin.png": "/poe-betrayal/static/media/rin.4ad74c513e781dcf355b.png",
+    "static/media/jorgin.png": "/poe-betrayal/static/media/jorgin.bb6b89bca36961f3b2e0.png",
+    "static/media/guff.png": "/poe-betrayal/static/media/guff.fed0a932fdc9ad5ea72e.png",
+    "static/media/riker.png": "/poe-betrayal/static/media/riker.105e4446614827de0600.png",
+    "static/media/fled.png": "/poe-betrayal/static/media/fled.80d2cd89cb3167f1a808.png",
+    "static/media/vorici.png": "/poe-betrayal/static/media/vorici.e0281f73caebd6323ecc.png",
+    "static/media/leo.png": "/poe-betrayal/static/media/leo.fa07a86c886f62b73d4c.png",
+    "static/media/vagan.png": "/poe-betrayal/static/media/vagan.0d6e4525a92e318a4a5e.png",
+    "static/media/korell.png": "/poe-betrayal/static/media/korell.41eb781f55d9f4c16b82.png",
+    "static/media/janus.png": "/poe-betrayal/static/media/janus.6bf75f32f733ed709f7a.png",
+    "static/media/haku.png": "/poe-betrayal/static/media/haku.0bceb23cde1b7920b3f3.png",
+    "index.html": "/poe-betrayal/index.html",
+    "main.ff595760.css.map": "/poe-betrayal/static/css/main.ff595760.css.map",
+    "main.4e811a52.js.map": "/poe-betrayal/static/js/main.4e811a52.js.map",
+    "787.6e909b41.chunk.js.map": "/poe-betrayal/static/js/787.6e909b41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff595760.css",
+    "static/js/main.4e811a52.js"
+  ]
+}
