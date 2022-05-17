@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/poe-betrayal/static/css/main.ff595760.css",
-    "main.js": "/poe-betrayal/static/js/main.170010f4.js",
+    "main.js": "/poe-betrayal/static/js/main.db49e2cc.js",
     "static/js/787.6e909b41.chunk.js": "/poe-betrayal/static/js/787.6e909b41.chunk.js",
     "static/media/bandits.png": "/poe-betrayal/static/media/bandits.6374c91cab0b26dd4606.png",
     "static/media/tora.png": "/poe-betrayal/static/media/tora.4920e181a786e0d8c097.png",
@@ -18,15 +18,16 @@
     "static/media/leo.png": "/poe-betrayal/static/media/leo.fa07a86c886f62b73d4c.png",
     "static/media/vagan.png": "/poe-betrayal/static/media/vagan.0d6e4525a92e318a4a5e.png",
     "static/media/korell.png": "/poe-betrayal/static/media/korell.41eb781f55d9f4c16b82.png",
+    "static/media/aisling.png": "/poe-betrayal/static/media/aisling.0212526e8684e3e582d8.png",
     "static/media/janus.png": "/poe-betrayal/static/media/janus.6bf75f32f733ed709f7a.png",
     "static/media/haku.png": "/poe-betrayal/static/media/haku.0bceb23cde1b7920b3f3.png",
     "index.html": "/poe-betrayal/index.html",
     "main.ff595760.css.map": "/poe-betrayal/static/css/main.ff595760.css.map",
-    "main.170010f4.js.map": "/poe-betrayal/static/js/main.170010f4.js.map",
+    "main.db49e2cc.js.map": "/poe-betrayal/static/js/main.db49e2cc.js.map",
     "787.6e909b41.chunk.js.map": "/poe-betrayal/static/js/787.6e909b41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff595760.css",
-    "static/js/main.170010f4.js"
+    "static/js/main.db49e2cc.js"
   ]
 }
