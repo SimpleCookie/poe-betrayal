@@ -1,3 +1,4 @@
+import aisling from "./aisling.png"
 import cameria from "./cameria.png"
 import elreon from "./elreon.png"
 import gravicius from "./gravicius.png"
@@ -16,6 +17,7 @@ import vagan from "./vagan.png"
 import vorici from "./vorici.png"
 
 export const members = [
+  { name: "aisling", img: aisling },
   { name: "cameria", img: cameria },
   { name: "elreon", img: elreon },
   { name: "gravicius", img: gravicius },
